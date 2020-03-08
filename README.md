@@ -1,1 +1,3 @@
-# C-_ASP.net_Training_Project
+# C# ASP.net Training Project
+
+> This is a prototype project to perform and learn CRUD operations.
